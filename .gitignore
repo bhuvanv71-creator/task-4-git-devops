@@ -1,0 +1,25 @@
+# Environment files
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Python files
+__pycache__/
+*.pyc
+venv/
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
