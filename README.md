@@ -114,3 +114,19 @@ Successfully implemented a Git-based version
 
 control workflow following DevOps best practices.
 
+
+
+\## Version Control Best Practices
+
+
+
+\- Use meaningful commit messages.
+
+\- Create separate feature branches.
+
+\- Review code before merging.
+
+\- Keep the main branch stable.
+
+\- Document important changes.
+
